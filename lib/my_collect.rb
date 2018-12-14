@@ -8,4 +8,4 @@ def my_collect(array)
   newArray
 end
 
-////
+//azaa
