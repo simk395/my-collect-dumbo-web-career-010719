@@ -7,5 +7,3 @@ def my_collect(array)
   end
   newArray
 end
-
-//azaa
